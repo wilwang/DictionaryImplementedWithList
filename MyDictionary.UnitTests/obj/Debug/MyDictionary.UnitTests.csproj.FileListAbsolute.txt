@@ -1,0 +1,14 @@
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\MyDictionary.UnitTests.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\MyDictionary.UnitTests.pdb
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\MyDictionary.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\MyDictionary.pdb
+C:\dev\MyDictionary\MyDictionary.UnitTests\obj\Debug\MyDictionary.UnitTests.csprojResolveAssemblyReference.cache
+C:\dev\MyDictionary\MyDictionary.UnitTests\obj\Debug\MyDictionary.UnitTests.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\obj\Debug\MyDictionary.UnitTests.pdb
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.Core.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.dll
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.pdb
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.xml
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+C:\dev\MyDictionary\MyDictionary.UnitTests\bin\Debug\FluentAssertions.Core.xml

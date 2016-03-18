@@ -1,0 +1,5 @@
+C:\dev\MyDictionary\MyDictionary\bin\Debug\MyDictionary.dll
+C:\dev\MyDictionary\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\dev\MyDictionary\MyDictionary\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+C:\dev\MyDictionary\MyDictionary\obj\Debug\MyDictionary.dll
+C:\dev\MyDictionary\MyDictionary\obj\Debug\MyDictionary.pdb
